@@ -1,0 +1,1 @@
+Neste exercício introdutório, foram criados vários diretórios com as pastas com os dias, conteúdo, tudo separado para melhor localização.
